@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.about-light-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+
+.about {
+  height: 60px;
+}
+
+.heading {
+  color: #333333;
+}
+
+.about-dark-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  background-color: #000000;
+}
+
+.heading-dark {
+  color: #ffffff;
+}
